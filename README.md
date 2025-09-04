@@ -1,0 +1,2 @@
+# Stake
+Csapatnév: Stake
